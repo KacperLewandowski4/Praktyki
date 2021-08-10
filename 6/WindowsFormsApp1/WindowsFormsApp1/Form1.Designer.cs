@@ -59,16 +59,16 @@ namespace WindowsFormsApp1
             // 
             // report
             // 
-            this.report.Location = new System.Drawing.Point(94, 135);
+            this.report.Location = new System.Drawing.Point(59, 118);
             this.report.Name = "report";
-            this.report.Size = new System.Drawing.Size(247, 96);
+            this.report.Size = new System.Drawing.Size(686, 232);
             this.report.TabIndex = 2;
             this.report.Text = "";
             this.report.TextChanged += new System.EventHandler(this.richTextBox1_TextChanged);
             // 
             // nextShift
             // 
-            this.nextShift.Location = new System.Drawing.Point(347, 71);
+            this.nextShift.Location = new System.Drawing.Point(275, 22);
             this.nextShift.Name = "nextShift";
             this.nextShift.Size = new System.Drawing.Size(82, 58);
             this.nextShift.TabIndex = 3;
@@ -91,7 +91,7 @@ namespace WindowsFormsApp1
             this.groupBox1.Controls.Add(this.comboBox1);
             this.groupBox1.Controls.Add(this.button2);
             this.groupBox1.Controls.Add(this.shifts);
-            this.groupBox1.Location = new System.Drawing.Point(84, 29);
+            this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(257, 100);
             this.groupBox1.TabIndex = 5;

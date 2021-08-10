@@ -15,7 +15,13 @@ namespace WindowsFormsApp1
         public Form1()
         {
             InitializeComponent();
-            comboBox1.SelectedIndex=0;
+            comboBox1.Items.Add("Zbieranie nektaru");
+            comboBox1.Items.Add("Wytwarzanie miodu");
+            comboBox1.Items.Add("Pielęgnacja jaj");
+            comboBox1.Items.Add("Nauczanie pszczółek");
+            comboBox1.Items.Add("Utrzymywanie ula");
+            comboBox1.Items.Add("Patrol z żądłami");
+
             Worker[] workers = new Worker[4];
             workers[0] = new Worker(new string[] { "Zbieranie nektaru", "Wytwarzanie miodu" });
             workers[1] = new Worker(new string[] { "Pielęgnacja jaj", "Nauczanie pszczółek" });
@@ -32,6 +38,7 @@ namespace WindowsFormsApp1
             else
                 MessageBox.Show("Zadanie '" + comboBox1.Text + "' będzie ukończone za " + shifts.Value + " zmiany", "Królowa pszczół mówi...");
 
+            
         }
 
         private void shifts_ValueChanged(object sender, EventArgs e)
