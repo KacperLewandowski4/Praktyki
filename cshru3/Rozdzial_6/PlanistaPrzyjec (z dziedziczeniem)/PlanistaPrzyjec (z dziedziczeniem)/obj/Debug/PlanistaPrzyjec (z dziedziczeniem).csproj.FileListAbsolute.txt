@@ -1,0 +1,10 @@
+C:\Users\xopero\Desktop\git_Kacper_Lewandowski\cshru3\Rozdzial_6\PlanistaPrzyjec (z dziedziczeniem)\PlanistaPrzyjec (z dziedziczeniem)\bin\Debug\BirthdayParty (inheritance).exe.config
+C:\Users\xopero\Desktop\git_Kacper_Lewandowski\cshru3\Rozdzial_6\PlanistaPrzyjec (z dziedziczeniem)\PlanistaPrzyjec (z dziedziczeniem)\bin\Debug\BirthdayParty (inheritance).exe
+C:\Users\xopero\Desktop\git_Kacper_Lewandowski\cshru3\Rozdzial_6\PlanistaPrzyjec (z dziedziczeniem)\PlanistaPrzyjec (z dziedziczeniem)\bin\Debug\BirthdayParty (inheritance).pdb
+C:\Users\xopero\Desktop\git_Kacper_Lewandowski\cshru3\Rozdzial_6\PlanistaPrzyjec (z dziedziczeniem)\PlanistaPrzyjec (z dziedziczeniem)\obj\Debug\PlanistaPrzyjec (z dziedziczeniem).csproj.AssemblyReference.cache
+C:\Users\xopero\Desktop\git_Kacper_Lewandowski\cshru3\Rozdzial_6\PlanistaPrzyjec (z dziedziczeniem)\PlanistaPrzyjec (z dziedziczeniem)\obj\Debug\PlanistaPrzyjec__z_dziedziczeniem_.Form1.resources
+C:\Users\xopero\Desktop\git_Kacper_Lewandowski\cshru3\Rozdzial_6\PlanistaPrzyjec (z dziedziczeniem)\PlanistaPrzyjec (z dziedziczeniem)\obj\Debug\PlanistaPrzyjec__z_dziedziczeniem_.Properties.Resources.resources
+C:\Users\xopero\Desktop\git_Kacper_Lewandowski\cshru3\Rozdzial_6\PlanistaPrzyjec (z dziedziczeniem)\PlanistaPrzyjec (z dziedziczeniem)\obj\Debug\PlanistaPrzyjec (z dziedziczeniem).csproj.GenerateResource.cache
+C:\Users\xopero\Desktop\git_Kacper_Lewandowski\cshru3\Rozdzial_6\PlanistaPrzyjec (z dziedziczeniem)\PlanistaPrzyjec (z dziedziczeniem)\obj\Debug\PlanistaPrzyjec (z dziedziczeniem).csproj.CoreCompileInputs.cache
+C:\Users\xopero\Desktop\git_Kacper_Lewandowski\cshru3\Rozdzial_6\PlanistaPrzyjec (z dziedziczeniem)\PlanistaPrzyjec (z dziedziczeniem)\obj\Debug\BirthdayParty (inheritance).exe
+C:\Users\xopero\Desktop\git_Kacper_Lewandowski\cshru3\Rozdzial_6\PlanistaPrzyjec (z dziedziczeniem)\PlanistaPrzyjec (z dziedziczeniem)\obj\Debug\BirthdayParty (inheritance).pdb

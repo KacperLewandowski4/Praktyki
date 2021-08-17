@@ -1,0 +1,7 @@
+C:\Users\xopero\Desktop\git_Kacper_Lewandowski\cshru3\Rozdzial_7\Przerazajacy klown\Przerazajacy klown\bin\Debug\FingersTheClown.exe.config
+C:\Users\xopero\Desktop\git_Kacper_Lewandowski\cshru3\Rozdzial_7\Przerazajacy klown\Przerazajacy klown\bin\Debug\FingersTheClown.exe
+C:\Users\xopero\Desktop\git_Kacper_Lewandowski\cshru3\Rozdzial_7\Przerazajacy klown\Przerazajacy klown\bin\Debug\FingersTheClown.pdb
+C:\Users\xopero\Desktop\git_Kacper_Lewandowski\cshru3\Rozdzial_7\Przerazajacy klown\Przerazajacy klown\obj\Debug\Przerazajacy klown.csproj.AssemblyReference.cache
+C:\Users\xopero\Desktop\git_Kacper_Lewandowski\cshru3\Rozdzial_7\Przerazajacy klown\Przerazajacy klown\obj\Debug\Przerazajacy klown.csproj.CoreCompileInputs.cache
+C:\Users\xopero\Desktop\git_Kacper_Lewandowski\cshru3\Rozdzial_7\Przerazajacy klown\Przerazajacy klown\obj\Debug\FingersTheClown.exe
+C:\Users\xopero\Desktop\git_Kacper_Lewandowski\cshru3\Rozdzial_7\Przerazajacy klown\Przerazajacy klown\obj\Debug\FingersTheClown.pdb
